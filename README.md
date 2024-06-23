@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Varshithathi2006
 - 👀 I’m interested in programming and developing websites
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me-varshitha.9a2019@gmail.com
+- 📫 How to reach me- varshitha.9a2019@gmail.com
 - 😄 Pronouns: She/Her
 
 <!---
