@@ -56,16 +56,23 @@ Interdisciplinary real-world impact projects
 
 ---
 
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Varshithathi2006)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshithathi2006)
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Varshithathi2006&theme=radical&no-frame=true&no-bg=true&margin-w=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Varshithathi2006&theme=onedark&no-frame=true&no-bg=true)
 
 </div>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:varshithathi006@gmail.com">
