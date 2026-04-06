@@ -42,18 +42,17 @@ Interdisciplinary real-world impact projects
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshithathi2006&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshithathi2006&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Varshithathi2006&theme=radical&hide_border=true" width="60%"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Varshithathi2006&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshithathi2006&layout=compact&theme=radical&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=Varshithathi2006&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
