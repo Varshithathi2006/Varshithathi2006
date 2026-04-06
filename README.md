@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varshitha Thilak Kumar</h1>
-<h3 align="center">🚀 AI Enthusiast | Healthcare AI Innovator | Problem Solver</h3>
+<h3 align="center"> AI Enthusiast | Innovative Pitches | Problem Solver</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Varshitha%20Thilak%20Kumar&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" />
@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 B.Tech CSE (AI) @ **Amrita Vishwa Vidyapeetham, Coimbatore**
-- 🤖 Passionate about **AI + Healthcare + Deep Learning**
+- 🤖 Passionate about **AI (ML+ Deep Learning)**
 - 🛡️ Personality: **Defender**
 - 💡 I love solving **real-world problems using AI & deep learning**
 - ⚡ Fun fact: *Music is my 24/7 companion 🎧🍫*
@@ -27,15 +27,15 @@
 ---
 
 ## 🤝 Looking to Collaborate On
-✨ AI-driven healthcare tools  
-🧠 Deep learning research projects  
-🌍 Interdisciplinary real-world impact projects  
+AI-driven tools | Agentic AI | LLMs
+Deep learning research projects  
+Interdisciplinary real-world impact projects  
 
 ---
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,C,C++,Big Data Tools,js,react,nodejs,mongodb,git,html,css," />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:varshitha.9a2019@gmail.com">
+  <a href="mailto:varshithathi006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
@@ -80,5 +80,5 @@
 </p>
 
 <p align="center">
-  💙 Thanks for visiting my profile! Let's build something amazing together 🚀
+  💙 Thanks for visiting my profile! Let's build something amazing together
 </p>
