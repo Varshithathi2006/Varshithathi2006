@@ -51,13 +51,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshithathi2006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshithathi2006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/Varshithathi2006">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshithathi2006&theme=redical&hide_border=true" alt="Contribution Graph" width="90%"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Varshithathi2006&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=Varshithathi2006&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Connect With Me
