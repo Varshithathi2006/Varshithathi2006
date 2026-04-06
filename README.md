@@ -31,26 +31,26 @@ AI-driven tools | Agentic AI | LLMs
 Deep learning research projects  
 Interdisciplinary real-world impact projects  
 
----
-
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,git,linux,tensorflow,pytorch)
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,git,linux,tensorflow,pytorch" />
 
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Varshithathi2006&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Varshithathi2006&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshithathi2006&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshithathi2006&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 
-![Streak](https://streak-stats.demolab.com/?user=Varshithathi2006&theme=radical&hide_border=true)
+<!-- OPTIONAL: Only keep if it loads -->
+<img src="https://streak-stats.demolab.com?user=Varshithathi2006&theme=radical&hide_border=true" />
 
 </div>
 
