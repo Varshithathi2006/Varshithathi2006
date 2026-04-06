@@ -51,14 +51,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshithathi2006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshithathi2006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Varshithathi2006&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshithathi2006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshithathi2006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Varshithathi2006&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
+</div>
 
 ## 🌐 Connect With Me
 
