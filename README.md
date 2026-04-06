@@ -33,10 +33,14 @@ Interdisciplinary real-world impact projects
 
 ---
 
+
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,C,C++,Big Data Tools,js,react,nodejs,mongodb,git,html,css," />
-</p>
+
+<div align="center">
+
+![Tech Stack](https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,git,linux,tensorflow,pytorch)
+
+</div>
 
 ---
 
@@ -55,9 +59,11 @@ Interdisciplinary real-world impact projects
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varshithathi2006&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Varshithathi2006&theme=radical&no-frame=true&no-bg=true&margin-w=8)
+
+</div>
 
 ---
 
