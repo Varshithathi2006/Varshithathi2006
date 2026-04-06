@@ -40,39 +40,25 @@ Interdisciplinary real-world impact projects
 </div>
 
 ---
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Varshithathi2006&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshithathi2006&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-
-<!-- OPTIONAL: Only keep if it loads -->
-<img src="https://streak-stats.demolab.com?user=Varshithathi2006&theme=radical&hide_border=true" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,git,linux,tensorflow,pytorch" alt="Tech Stack" />
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<div align="center">
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Varshithathi2006&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Varshithathi2006)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshithathi2006&layout=compact&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshithathi2006)
+  ![Streak](https://streak-stats.demolab.com?user=Varshithathi2006&theme=radical&hide_border=true)
+</div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Varshithathi2006&theme=onedark&no-frame=true&no-bg=true)
-
-</div>
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:varshithathi006@gmail.com">
