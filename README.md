@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varshitha%20Thilak%20Kumar&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Varshitha Thilak Kumar</h1>
+<h1 align="center">Hi, I'm Varshitha Thilak Kumar</h1>
 <h3 align="center">AI Enthusiast | Innovative Pitches | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+Deep+Learning;Building+Real-World+AI+Solutions;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+Deep+Learning;Building+Real-World+AI+Solutions;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,22 +43,12 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,git,linux,tensorflow,pytorch" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,git,tensorflow,pytorch" alt="Tech Stack" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Varshithathi2006">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshithathi2006&theme=redical&hide_border=true" alt="Contribution Graph" width="90%"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Varshithathi2006&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ## 🌐 Connect With Me
 
@@ -70,7 +60,7 @@
 
 ---
 
-## 💭 Quote I Believe In
+## 💭  I Believe In
 
 > *"AI is not just about models, it's about impact."*
 
